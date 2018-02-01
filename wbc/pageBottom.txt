@@ -1,0 +1,7 @@
+<div id="footer">
+<center>
+Copyright (c) 2013-2017 Dano
+</center>
+</div> <!-- end footer -->
+</body>
+</html>
